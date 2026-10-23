@@ -26,8 +26,8 @@ server-reliability-analysis/
 ├── requirements.txt
 ├── server_reliability_analysis.ipynb
 └── docs/
-    ├── report.pdf         # Original group report (French)
-    └── presentation.pdf   # Original group slides (French)
+    ├── rapport_statistique_original.pdf          # Original group report (French)
+    └── presentation_statistique_originale.pdf     # Original group slides (French)
 ```
 
 ## Run the analysis
